@@ -1,1 +1,1 @@
-web: gunicorn nodis_blog.wsgi
+web: gunicorn NODISPROJECT.wsgi --log-file -
