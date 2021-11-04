@@ -1,1 +1,1 @@
-web: gunicorn your-project-name.wsgi
+web: gunicorn nodis_blog.wsgi
