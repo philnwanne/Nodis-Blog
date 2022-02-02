@@ -1,3 +1,3 @@
 #Nodis Blog
 
-This is my first Blog
+My first attempt at creating a blog.....Discontinued for now
